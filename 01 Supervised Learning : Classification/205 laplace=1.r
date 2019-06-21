@@ -37,3 +37,13 @@
          theater
 [1,] 0.003097769
 > 
+
+### Understanding the Laplace correction
+# By default, the naive_bayes() function in the naivebayes package does not use the Laplace correction. 
+# What is the risk of leaving this parameter unset?
+
+# Answer the question.               ###$$$@@@ the correct answer is 1.
+# 1.Some potential outcomes may be predicted to be impossible.
+# 2.The algorithm may have a divide by zero error.
+# 3.Naive Bayes will ignore features with zero values.
+# 4.The model may not estimate probabilities for some cases.
