@@ -4,6 +4,6 @@
 <br>
 * Why, then, are pre-pruning and post-pruning almost always used?
 
-* Simpler trees are easier to interpret
-* Simpler trees using early stopping are faster to train
-* Simpler trees may perform better on the testing data
+    * Simpler trees are easier to interpret
+    * Simpler trees using early stopping are faster to train
+    * Simpler trees may perform better on the testing data
