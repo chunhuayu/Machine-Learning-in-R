@@ -30,3 +30,11 @@
 > # Plot dendrogram of hclust.single
 > plot(hclust.single, main="Single")
 > 
+
+### Which linkage(s) produce balanced trees? Complete and average. 
+# Why?
+# Whether you want balanced or unbalanced trees for your hierarchical clustering model depends on the context of the problem 
+# you're trying to solve. Balanced trees are essential if you want an even number of observations assigned to each cluster. 
+# On the other hand, if you want to detect outliers, 
+# for example, an unbalanced tree is more desirable because pruning an unbalanced tree can result in most observations 
+# assigned to one cluster and only a few observations assigned to other clusters.
