@@ -29,4 +29,10 @@
   1 204   9   1
   2 242   1   0
   3 342   1   0
-> 
+>
+### Comment:
+# Looking at the table, it looks like the hierarchical clustering model assigns most of the observations to cluster 1, 
+# while the k-means algorithm distributes the observations relatively evenly among all clusters. 
+# It's important to note that there's no consensus on which method produces better clusters. 
+# The job of the analyst in unsupervised clustering is to observe the cluster assignments and make a judgment call as to 
+# which method provides more insights into the data. Excellent job!
